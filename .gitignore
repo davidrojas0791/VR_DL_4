@@ -1,3 +1,4 @@
 report_imgs
 Report_Task_4.ipynb
 .ipynb_checkpoints
+*.pt
